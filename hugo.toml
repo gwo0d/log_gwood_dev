@@ -1,0 +1,14 @@
+baseURL = 'https://log.gwood.dev'
+languageCode = 'en-gb'
+title = 'George O. Wood'
+
+theme = "dario"
+
+[params]
+    author = "George O. Wood" # the author of the site
+    description = "George O. Wood's personal log." # a description of your site that will be used in the meta tags
+
+[params.homeInfoParams]
+    Title = "Log" # the text to display on the "/" homepage
+    Content = "This is my personal log, where I post longer-form content which does not concisely fit into a BlueSky post.\n\n*All opinions are my own.*"
+    Description = "George O. Wood's personal log." # The description of the home page that will be used in the open graph meta tags
